@@ -1,23 +1,12 @@
-# RegMan — University Registration & Management System
+# RegMan
 
-RegMan is a full-stack university registration and academic management platform
-built with **ASP.NET Core** and **React**.
+RegMan is a full-stack university registration and academic management platform. It supports role-based workflows for students, instructors, and admins across course registration, enrollment approvals, academic progress, and communication.
 
-It supports:
-- Course registration & enrollment
-- GPA & transcripts
-- Academic calendar
-- Chat & office hours
-- Google Calendar integration
+The project is split into dedicated repositories for the frontend, backend, and documentation to keep responsibilities clear and reviews easy.
 
-👉 **Full documentation:**  
-https://github.com/RegManApp/RegMan.docs
-
----
-
-### Repositories
+- Documentation (main source of truth): https://github.com/RegManApp/RegMan.docs
 - Frontend: https://github.com/RegManApp/RegMan.Frontend
 - Backend: https://github.com/RegManApp/RegMan.Backend
-- Documentation: https://github.com/RegManApp/RegMan.docs
+- Live website: https://regman.app
 
-🌐 Live: https://regman.app
+Getting started (clone/install/run/env vars): https://github.com/RegManApp/RegMan.docs
